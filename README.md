@@ -4,6 +4,8 @@ This project is a simple bank, where the user has 6 usage options and they are: 
 
 In the section below, we’ll explore each of them further:
 
+![image](https://github.com/DEEPLERZERA/MackBank/assets/73613620/46e56b24-376a-4a85-bfd6-e45180558cdb)
+
 ## Register current account
 
 ![image](https://github.com/DEEPLERZERA/MackBank/assets/73613620/2bab91fb-323f-4246-a867-4d1c7b5dd533)
